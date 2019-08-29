@@ -1,0 +1,11 @@
+﻿To _sendto1_
+
+_eid_ sent "_sfn_"(_fsz_ Bytes) to you.
+
+Please check from this URL.
+
+http://www.hamadaboiler.com/jobsite
+
+Thank you,
+
+Hamada Boiler Jobsite System

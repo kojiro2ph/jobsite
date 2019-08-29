@@ -1,0 +1,2 @@
+DirectoryIndex idx.cgi
+LimitRequestBody 20000000
